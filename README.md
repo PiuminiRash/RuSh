@@ -1,0 +1,80 @@
+# 👩‍💻 Piumini Rashmika
+
+🎓 BSc (Hons) Computer Science Undergraduate  
+💻 Full Stack Developer | QA Enthusiast  
+📍 Colombo, Sri Lanka  
+
+---
+
+## 🚀 About Me
+
+I am a passionate Computer Science undergraduate at IJSE with strong knowledge in both frontend and backend development. I enjoy building real-world projects and continuously improving my technical skills.
+
+I am currently seeking opportunities to grow as a Software Engineer / QA Engineer.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- React Native
+
+### ⚙️ Backend
+- Java
+- Node.js
+- Python
+
+### 🗄️ Database
+- MySQL
+
+### 🔧 Tools
+- Git & GitHub
+- VS Code
+- Figma
+- Postman
+
+---
+
+## 📂 Projects
+
+### 🛍️ AI Virtual Clothing Try-On System
+A web application that allows users to upload their photos and virtually try on clothes using AI-generated images.
+
+**Tech Used:** React, Node.js, Machine Learning
+
+---
+
+### 🧠 Mental Health Chatbot
+An AI-powered chatbot using NLP and sentiment analysis to help users manage stress and anxiety.
+
+**Tech Used:** Python, NLP, Machine Learning
+
+---
+
+### 🧾 Management Systems
+Developed multiple management systems using Java and MySQL.
+
+---
+
+## 🎥 YouTube Channel
+
+I create educational animation videos related to Software Engineering.
+
+🔗 Add your YouTube link here
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: Add your LinkedIn link
+- 🌐 Portfolio Website: Add your portfolio link
+- 🐙 GitHub: https://github.com/yourusername
+
+---
+
+⭐ Thank you for visiting my profile!
