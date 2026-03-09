@@ -16,8 +16,8 @@ export default function Works() {
     { image: assets.figma2, link: "https://www.figma.com/design/3IgxAqTLMVRvNBEtEdLGlM/Travel-web--Copy-?m=auto&t=wl8tHveIjlZB5zEZ-6" },
     { image: assets.figma3, link: "https://www.figma.com/design/aOX1eQ5zwX5kX4iPYsTDqy/World-Arrack?m=auto&t=wl8tHveIjlZB5zEZ-6" },
     { image: assets.figma4, link: "https://www.figma.com/design/3yKQpQNxveyn91wMGVpaKf/Saloon-Ishu?m=auto&t=wl8tHveIjlZB5zEZ-6" },
-    { image: assets.figma5, link: "https://www.figma.com/design/GicPvXAC31tzxpRunRzFjq/Event-Manage?node-id=0-1&t=gW6uspZLziOgaCfw-1" },
-    { image: assets.figma6, link: "https://www.figma.com/design/Nrzx6tGNPuly8S02XxgFFC/Restaurant-Design?node-id=0-1&t=othipYTvJ5V5XliD-1" },
+    { image: assets.figma5, link: "https://www.figma.com/design/MvPc2gsyShJoqC2OgdJ0tj/Chat-Application?node-id=0-1&t=awmmTCoOl99FIqAK-1" },
+    { image: assets.figma6, link: "https://www.figma.com/design/bhcLa59Fgf86xFcrkixq9B/Shoe-Managemet?t=1Yz0jRxxbLDH834g-1" },
   ];
 
   return (
