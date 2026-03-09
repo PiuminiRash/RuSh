@@ -151,10 +151,14 @@ export default function About() {
 
       {/* SCROLL ICON */}
       <div className="flex justify-center mt-10">
-        <HiOutlineChevronDoubleDown
+        <button
+          type="button"
           className="text-3xl cursor-pointer animate-bounce"
           onClick={scrollToSkills}
-        />
+          aria-label="Scroll to skills"
+        >
+          <HiOutlineChevronDoubleDown />
+        </button>
       </div>
 
 

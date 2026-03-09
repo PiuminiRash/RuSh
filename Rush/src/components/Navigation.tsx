@@ -1,7 +1,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBarsStaggered, faTimes } from "@fortawesome/free-solid-svg-icons";
 import { useState, useEffect } from "react";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 
 function Navigation() {
     const [isOpen, setIsOpen] = useState(false);

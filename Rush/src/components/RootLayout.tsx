@@ -1,5 +1,5 @@
 import Navigation from "./Navigation.tsx";
-import {Outlet} from "react-router";
+import {Outlet} from "react-router-dom";
 import Background from "./Background.tsx";
 
 function RootLayout(){
