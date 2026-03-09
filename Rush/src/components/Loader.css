@@ -1,0 +1,10 @@
+.loader-wrapper {
+    width: 100vw;
+    height: 100vh;
+    background: black;
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
+}

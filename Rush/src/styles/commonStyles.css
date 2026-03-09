@@ -1,0 +1,3 @@
+.font-color {
+    @apply text-white hover:text-yellow-400
+}

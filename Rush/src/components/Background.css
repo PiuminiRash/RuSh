@@ -1,0 +1,107 @@
+.area {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at top, #3a2f00, #000);
+    z-index: -1;
+    overflow: hidden;
+}
+
+/* Circle container */
+.circles {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Particles */
+.circles li {
+    position: absolute;
+    display: block;
+    list-style: none;
+    width: 8px;
+    height: 8px;
+    background: rgba(255, 204, 0, 0.9);
+    animation: animate 25s linear infinite;
+    bottom: -150px;
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgba(255, 204, 0, 0.8);
+}
+
+/* Random positions */
+.circles li:nth-child(1) {
+    left: 25%;
+    animation-delay: 0s;
+}
+
+.circles li:nth-child(2) {
+    left: 10%;
+    animation-delay: 2s;
+    width: 12px;
+    height: 12px;
+}
+
+.circles li:nth-child(3) {
+    left: 70%;
+    animation-delay: 4s;
+}
+
+.circles li:nth-child(4) {
+    left: 40%;
+    animation-delay: 0s;
+    width: 18px;
+    height: 18px;
+}
+
+.circles li:nth-child(5) {
+    left: 65%;
+    animation-delay: 0s;
+}
+
+.circles li:nth-child(6) {
+    left: 75%;
+    animation-delay: 3s;
+    width: 20px;
+    height: 20px;
+}
+
+.circles li:nth-child(7) {
+    left: 35%;
+    animation-delay: 7s;
+}
+
+.circles li:nth-child(8) {
+    left: 50%;
+    animation-delay: 15s;
+    width: 25px;
+    height: 25px;
+}
+
+.circles li:nth-child(9) {
+    left: 20%;
+    animation-delay: 2s;
+}
+
+.circles li:nth-child(10) {
+    left: 85%;
+    animation-delay: 0s;
+}
+
+/* Animation */
+@keyframes animate {
+    0% {
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(-1000px) scale(1.2);
+        opacity: 0;
+    }
+}
