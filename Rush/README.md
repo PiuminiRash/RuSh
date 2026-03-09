@@ -1,73 +1,80 @@
-# React + TypeScript + Vite
+# 👩‍💻 Piumini Rashmika
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎓 BSc (Hons) Computer Science Undergraduate  
+💻 Full Stack Developer | QA Enthusiast  
+📍 Colombo, Sri Lanka  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 About Me
 
-## React Compiler
+I am a passionate Computer Science undergraduate at IJSE with strong knowledge in both frontend and backend development. I enjoy building real-world projects and continuously improving my technical skills.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am currently seeking opportunities to grow as a Software Engineer / QA Engineer.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 🛠️ Tech Stack
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+### 💻 Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- React Native
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+### ⚙️ Backend
+- Java
+- Node.js
+- Python
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+### 🗄️ Database
+- MySQL
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### 🔧 Tools
+- Git & GitHub
+- VS Code
+- Figma
+- Postman
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+---
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## 📂 Projects
+
+### 🛍️ AI Virtual Clothing Try-On System
+A web application that allows users to upload their photos and virtually try on clothes using AI-generated images.
+
+**Tech Used:** React, Node.js, Machine Learning
+
+---
+
+### 🧠 Mental Health Chatbot
+An AI-powered chatbot using NLP and sentiment analysis to help users manage stress and anxiety.
+
+**Tech Used:** Python, NLP, Machine Learning
+
+---
+
+### 🧾 Management Systems
+Developed multiple management systems using Java and MySQL.
+
+---
+
+## 🎥 YouTube Channel
+
+I create educational animation videos related to Software Engineering.
+
+🔗 Add your YouTube link here
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: Add your LinkedIn link
+- 🌐 Portfolio Website: Add your portfolio link
+- 🐙 GitHub: https://github.com/yourusername
+
+---
+
+⭐ Thank you for visiting my profile!
